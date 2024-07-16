@@ -1,2 +1,2 @@
 # Simple-Practice-Projects
-here I store my simple projects
+I store my simple projects here
